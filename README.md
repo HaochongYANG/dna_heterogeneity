@@ -1,11 +1,10 @@
 # DNA Heterogeneity
 
-This repository contains the code and data for analyzing DNA heterogeneity. The main goal of the project is to explore and understand the variations in DNA sequences.
+This repository contains the code and data for analyzing DNA 3D structure. The main goal of the project is to explore and understand the variations in DNA spacial sequences by contact matrices.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
@@ -15,14 +14,7 @@ This repository contains the code and data for analyzing DNA heterogeneity. The 
 
 ## Introduction
 
-DNA heterogeneity refers to the variations and differences found within the DNA sequences of different individuals or species. This project aims to analyze these variations to gain insights into genetic diversity and its implications.
-
-## Features
-
-- Analysis of DNA sequence variations
-- Visualization of DNA heterogeneity
-- Statistical analysis and modelling
-- Data preprocessing and cleaning
+DNA heterogeneity refers to the variations and differences found within the DNA 3D sequences of different cells. This project aims to analyze and quantify these variations to gain insights into genetic diversity.
 
 ## Installation
 
